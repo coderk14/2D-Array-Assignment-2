@@ -1,0 +1,1 @@
+output of question 6 is : 1234
